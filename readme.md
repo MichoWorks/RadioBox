@@ -13,13 +13,13 @@
 
 ## Access
 
-Visit RadioBox at: [http://your-radiobox-url.com](http://your-radiobox-url.com) to start streaming.
+Visit RadioBox at: [http:/soon.com](http://soon.com) to start streaming.
 
 ## License
 
 The contents of this website are proprietary and protected by copyright. Unauthorized use, reproduction, or distribution of any part of this site is strictly prohibited without explicit written permission from the author. 
 
-**Copyright © [Year] [Your Name]**
+**Copyright © [2024] [MichoWorks]**
 
 ## Contact
 
